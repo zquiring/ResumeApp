@@ -14,6 +14,41 @@
 		CE58416A1A9EABD70081651C /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE5841691A9EABD70081651C /* Images.xcassets */; };
 		CE58416D1A9EABD70081651C /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = CE58416B1A9EABD70081651C /* LaunchScreen.xib */; };
 		CE5841791A9EABD70081651C /* ResumeAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5841781A9EABD70081651C /* ResumeAppTests.swift */; };
+		CE5841831A9EADEF0081651C /* TutorialViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5841821A9EADEF0081651C /* TutorialViewController.swift */; };
+		CE58418A1A9FD2D30081651C /* eagleFour.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = CE5841861A9FD2D30081651C /* eagleFour.jpeg */; };
+		CE58418B1A9FD2D30081651C /* eagleOne.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = CE5841871A9FD2D30081651C /* eagleOne.jpeg */; };
+		CE58418C1A9FD2D30081651C /* eagleThree.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = CE5841881A9FD2D30081651C /* eagleThree.jpeg */; };
+		CE58418D1A9FD2D30081651C /* eagleTwo.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = CE5841891A9FD2D30081651C /* eagleTwo.jpeg */; };
+		CE5841911A9FDB130081651C /* StartupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5841901A9FDB130081651C /* StartupViewController.swift */; };
+		CE5841931AA509D30081651C /* A.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5841921AA509D30081651C /* A.swift */; };
+		CE5841951AA50E420081651C /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5841941AA50E420081651C /* WelcomeViewController.swift */; };
+		CE5841971AA514570081651C /* UIHelpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5841961AA514570081651C /* UIHelpers.swift */; };
+		CE5841AF1AA520310081651C /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = CE5841AE1AA520310081651C /* libz.dylib */; };
+		CE5841B11AA5203A0081651C /* libsqlite3.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = CE5841B01AA5203A0081651C /* libsqlite3.dylib */; };
+		CE5841B31AA5208C0081651C /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE5841AC1AA520280081651C /* SystemConfiguration.framework */; };
+		CE5841B41AA520A50081651C /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE5841AA1AA5201B0081651C /* StoreKit.framework */; };
+		CE5841B51AA520A50081651C /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE5841A81AA520130081651C /* Security.framework */; };
+		CE5841B61AA520A50081651C /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE5841A61AA5200B0081651C /* QuartzCore.framework */; };
+		CE5841B71AA520A50081651C /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE5841A41AA520020081651C /* MobileCoreServices.framework */; };
+		CE5841B81AA520A50081651C /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE5841A21AA51FFC0081651C /* CoreLocation.framework */; };
+		CE5841B91AA520A50081651C /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE5841A01AA51FF50081651C /* CoreGraphics.framework */; };
+		CE5841BA1AA520A50081651C /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE58419E1AA51FEF0081651C /* CFNetwork.framework */; };
+		CE5841BB1AA520A50081651C /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE58419C1AA51FE80081651C /* AudioToolbox.framework */; };
+		CE5841BC1AA520A50081651C /* Bolts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE5841981AA51FCC0081651C /* Bolts.framework */; };
+		CE5841BD1AA520A50081651C /* Parse.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE5841991AA51FCC0081651C /* Parse.framework */; };
+		CE5841BF1AA52E030081651C /* TakeProfilePic.png in Resources */ = {isa = PBXBuildFile; fileRef = CE5841BE1AA52E030081651C /* TakeProfilePic.png */; };
+		CE5841C11AA530FD0081651C /* ContinueArrow.png in Resources */ = {isa = PBXBuildFile; fileRef = CE5841C01AA530FD0081651C /* ContinueArrow.png */; };
+		CE5841C31AA5316C0081651C /* ContinueArrowWhite.png in Resources */ = {isa = PBXBuildFile; fileRef = CE5841C21AA5316C0081651C /* ContinueArrowWhite.png */; };
+		CE5841C51AA534B80081651C /* UsersListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5841C41AA534B80081651C /* UsersListViewController.swift */; };
+		CE5841CC1AA59C880081651C /* FaceFive.png in Resources */ = {isa = PBXBuildFile; fileRef = CE5841C61AA59C880081651C /* FaceFive.png */; };
+		CE5841CE1AA59C880081651C /* FaceOne.png in Resources */ = {isa = PBXBuildFile; fileRef = CE5841C81AA59C880081651C /* FaceOne.png */; };
+		CE5841CF1AA59C880081651C /* FaceSix.png in Resources */ = {isa = PBXBuildFile; fileRef = CE5841C91AA59C880081651C /* FaceSix.png */; };
+		CE5841D11AA59C880081651C /* FaceTwo.png in Resources */ = {isa = PBXBuildFile; fileRef = CE5841CB1AA59C880081651C /* FaceTwo.png */; };
+		CE5841D71AA5A35F0081651C /* FaceEleven.png in Resources */ = {isa = PBXBuildFile; fileRef = CE5841D21AA5A35F0081651C /* FaceEleven.png */; };
+		CE5841D81AA5A35F0081651C /* FaceNine.png in Resources */ = {isa = PBXBuildFile; fileRef = CE5841D31AA5A35F0081651C /* FaceNine.png */; };
+		CE5841D91AA5A35F0081651C /* FaceSeven.png in Resources */ = {isa = PBXBuildFile; fileRef = CE5841D41AA5A35F0081651C /* FaceSeven.png */; };
+		CE5841DA1AA5A35F0081651C /* FaceTen.png in Resources */ = {isa = PBXBuildFile; fileRef = CE5841D51AA5A35F0081651C /* FaceTen.png */; };
+		CE5841DB1AA5A35F0081651C /* FaceTwelve.png in Resources */ = {isa = PBXBuildFile; fileRef = CE5841D61AA5A35F0081651C /* FaceTwelve.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +73,41 @@
 		CE5841721A9EABD70081651C /* ResumeAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ResumeAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE5841771A9EABD70081651C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CE5841781A9EABD70081651C /* ResumeAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResumeAppTests.swift; sourceTree = "<group>"; };
+		CE5841821A9EADEF0081651C /* TutorialViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TutorialViewController.swift; sourceTree = "<group>"; };
+		CE5841861A9FD2D30081651C /* eagleFour.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = eagleFour.jpeg; sourceTree = "<group>"; };
+		CE5841871A9FD2D30081651C /* eagleOne.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = eagleOne.jpeg; sourceTree = "<group>"; };
+		CE5841881A9FD2D30081651C /* eagleThree.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = eagleThree.jpeg; sourceTree = "<group>"; };
+		CE5841891A9FD2D30081651C /* eagleTwo.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = eagleTwo.jpeg; sourceTree = "<group>"; };
+		CE5841901A9FDB130081651C /* StartupViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StartupViewController.swift; sourceTree = "<group>"; };
+		CE5841921AA509D30081651C /* A.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = A.swift; sourceTree = "<group>"; };
+		CE5841941AA50E420081651C /* WelcomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
+		CE5841961AA514570081651C /* UIHelpers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIHelpers.swift; sourceTree = "<group>"; };
+		CE5841981AA51FCC0081651C /* Bolts.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Bolts.framework; sourceTree = "<group>"; };
+		CE5841991AA51FCC0081651C /* Parse.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Parse.framework; sourceTree = "<group>"; };
+		CE58419C1AA51FE80081651C /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		CE58419E1AA51FEF0081651C /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
+		CE5841A01AA51FF50081651C /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		CE5841A21AA51FFC0081651C /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		CE5841A41AA520020081651C /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
+		CE5841A61AA5200B0081651C /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		CE5841A81AA520130081651C /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		CE5841AA1AA5201B0081651C /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
+		CE5841AC1AA520280081651C /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		CE5841AE1AA520310081651C /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
+		CE5841B01AA5203A0081651C /* libsqlite3.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libsqlite3.dylib; path = usr/lib/libsqlite3.dylib; sourceTree = SDKROOT; };
+		CE5841BE1AA52E030081651C /* TakeProfilePic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TakeProfilePic.png; sourceTree = "<group>"; };
+		CE5841C01AA530FD0081651C /* ContinueArrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ContinueArrow.png; sourceTree = "<group>"; };
+		CE5841C21AA5316C0081651C /* ContinueArrowWhite.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ContinueArrowWhite.png; sourceTree = "<group>"; };
+		CE5841C41AA534B80081651C /* UsersListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UsersListViewController.swift; sourceTree = "<group>"; };
+		CE5841C61AA59C880081651C /* FaceFive.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FaceFive.png; sourceTree = "<group>"; };
+		CE5841C81AA59C880081651C /* FaceOne.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FaceOne.png; sourceTree = "<group>"; };
+		CE5841C91AA59C880081651C /* FaceSix.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FaceSix.png; sourceTree = "<group>"; };
+		CE5841CB1AA59C880081651C /* FaceTwo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FaceTwo.png; sourceTree = "<group>"; };
+		CE5841D21AA5A35F0081651C /* FaceEleven.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FaceEleven.png; sourceTree = "<group>"; };
+		CE5841D31AA5A35F0081651C /* FaceNine.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FaceNine.png; sourceTree = "<group>"; };
+		CE5841D41AA5A35F0081651C /* FaceSeven.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FaceSeven.png; sourceTree = "<group>"; };
+		CE5841D51AA5A35F0081651C /* FaceTen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FaceTen.png; sourceTree = "<group>"; };
+		CE5841D61AA5A35F0081651C /* FaceTwelve.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FaceTwelve.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +115,19 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE5841B11AA5203A0081651C /* libsqlite3.dylib in Frameworks */,
+				CE5841AF1AA520310081651C /* libz.dylib in Frameworks */,
+				CE5841B41AA520A50081651C /* StoreKit.framework in Frameworks */,
+				CE5841B51AA520A50081651C /* Security.framework in Frameworks */,
+				CE5841B61AA520A50081651C /* QuartzCore.framework in Frameworks */,
+				CE5841B71AA520A50081651C /* MobileCoreServices.framework in Frameworks */,
+				CE5841B81AA520A50081651C /* CoreLocation.framework in Frameworks */,
+				CE5841B91AA520A50081651C /* CoreGraphics.framework in Frameworks */,
+				CE5841BA1AA520A50081651C /* CFNetwork.framework in Frameworks */,
+				CE5841BB1AA520A50081651C /* AudioToolbox.framework in Frameworks */,
+				CE5841BC1AA520A50081651C /* Bolts.framework in Frameworks */,
+				CE5841BD1AA520A50081651C /* Parse.framework in Frameworks */,
+				CE5841B31AA5208C0081651C /* SystemConfiguration.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -61,6 +144,9 @@
 		CE5841521A9EABD70081651C = {
 			isa = PBXGroup;
 			children = (
+				CE5841B01AA5203A0081651C /* libsqlite3.dylib */,
+				CE5841AE1AA520310081651C /* libz.dylib */,
+				CE5841B21AA520640081651C /* FrameWorks */,
 				CE58415D1A9EABD70081651C /* ResumeApp */,
 				CE5841751A9EABD70081651C /* ResumeAppTests */,
 				CE58415C1A9EABD70081651C /* Products */,
@@ -79,6 +165,8 @@
 		CE58415D1A9EABD70081651C /* ResumeApp */ = {
 			isa = PBXGroup;
 			children = (
+				CE5841901A9FDB130081651C /* StartupViewController.swift */,
+				CE5841841A9FD29B0081651C /* Resources */,
 				CE5841601A9EABD70081651C /* AppDelegate.swift */,
 				CE5841621A9EABD70081651C /* FirstViewController.swift */,
 				CE5841641A9EABD70081651C /* SecondViewController.swift */,
@@ -86,6 +174,9 @@
 				CE5841691A9EABD70081651C /* Images.xcassets */,
 				CE58416B1A9EABD70081651C /* LaunchScreen.xib */,
 				CE58415E1A9EABD70081651C /* Supporting Files */,
+				CE5841821A9EADEF0081651C /* TutorialViewController.swift */,
+				CE5841941AA50E420081651C /* WelcomeViewController.swift */,
+				CE5841C41AA534B80081651C /* UsersListViewController.swift */,
 			);
 			path = ResumeApp;
 			sourceTree = "<group>";
@@ -94,6 +185,8 @@
 			isa = PBXGroup;
 			children = (
 				CE58415F1A9EABD70081651C /* Info.plist */,
+				CE5841921AA509D30081651C /* A.swift */,
+				CE5841961AA514570081651C /* UIHelpers.swift */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -113,6 +206,55 @@
 				CE5841771A9EABD70081651C /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		CE5841841A9FD29B0081651C /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				CE5841851A9FD2A50081651C /* Images */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		CE5841851A9FD2A50081651C /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				CE5841D21AA5A35F0081651C /* FaceEleven.png */,
+				CE5841D31AA5A35F0081651C /* FaceNine.png */,
+				CE5841D41AA5A35F0081651C /* FaceSeven.png */,
+				CE5841D51AA5A35F0081651C /* FaceTen.png */,
+				CE5841D61AA5A35F0081651C /* FaceTwelve.png */,
+				CE5841C61AA59C880081651C /* FaceFive.png */,
+				CE5841C81AA59C880081651C /* FaceOne.png */,
+				CE5841C91AA59C880081651C /* FaceSix.png */,
+				CE5841CB1AA59C880081651C /* FaceTwo.png */,
+				CE5841C21AA5316C0081651C /* ContinueArrowWhite.png */,
+				CE5841C01AA530FD0081651C /* ContinueArrow.png */,
+				CE5841BE1AA52E030081651C /* TakeProfilePic.png */,
+				CE5841861A9FD2D30081651C /* eagleFour.jpeg */,
+				CE5841871A9FD2D30081651C /* eagleOne.jpeg */,
+				CE5841881A9FD2D30081651C /* eagleThree.jpeg */,
+				CE5841891A9FD2D30081651C /* eagleTwo.jpeg */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+		CE5841B21AA520640081651C /* FrameWorks */ = {
+			isa = PBXGroup;
+			children = (
+				CE5841AC1AA520280081651C /* SystemConfiguration.framework */,
+				CE5841AA1AA5201B0081651C /* StoreKit.framework */,
+				CE5841A81AA520130081651C /* Security.framework */,
+				CE5841A61AA5200B0081651C /* QuartzCore.framework */,
+				CE5841A41AA520020081651C /* MobileCoreServices.framework */,
+				CE5841A21AA51FFC0081651C /* CoreLocation.framework */,
+				CE5841A01AA51FF50081651C /* CoreGraphics.framework */,
+				CE58419E1AA51FEF0081651C /* CFNetwork.framework */,
+				CE58419C1AA51FE80081651C /* AudioToolbox.framework */,
+				CE5841981AA51FCC0081651C /* Bolts.framework */,
+				CE5841991AA51FCC0081651C /* Parse.framework */,
+			);
+			name = FrameWorks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -195,9 +337,25 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE58418A1A9FD2D30081651C /* eagleFour.jpeg in Resources */,
+				CE5841D71AA5A35F0081651C /* FaceEleven.png in Resources */,
+				CE58418C1A9FD2D30081651C /* eagleThree.jpeg in Resources */,
+				CE5841C31AA5316C0081651C /* ContinueArrowWhite.png in Resources */,
+				CE5841DA1AA5A35F0081651C /* FaceTen.png in Resources */,
+				CE5841C11AA530FD0081651C /* ContinueArrow.png in Resources */,
+				CE5841D91AA5A35F0081651C /* FaceSeven.png in Resources */,
+				CE58418D1A9FD2D30081651C /* eagleTwo.jpeg in Resources */,
+				CE5841DB1AA5A35F0081651C /* FaceTwelve.png in Resources */,
 				CE5841681A9EABD70081651C /* Main.storyboard in Resources */,
+				CE5841D11AA59C880081651C /* FaceTwo.png in Resources */,
+				CE5841D81AA5A35F0081651C /* FaceNine.png in Resources */,
+				CE58418B1A9FD2D30081651C /* eagleOne.jpeg in Resources */,
 				CE58416D1A9EABD70081651C /* LaunchScreen.xib in Resources */,
+				CE5841CC1AA59C880081651C /* FaceFive.png in Resources */,
 				CE58416A1A9EABD70081651C /* Images.xcassets in Resources */,
+				CE5841CF1AA59C880081651C /* FaceSix.png in Resources */,
+				CE5841CE1AA59C880081651C /* FaceOne.png in Resources */,
+				CE5841BF1AA52E030081651C /* TakeProfilePic.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -217,7 +375,13 @@
 			files = (
 				CE5841651A9EABD70081651C /* SecondViewController.swift in Sources */,
 				CE5841611A9EABD70081651C /* AppDelegate.swift in Sources */,
+				CE5841831A9EADEF0081651C /* TutorialViewController.swift in Sources */,
+				CE5841971AA514570081651C /* UIHelpers.swift in Sources */,
+				CE5841931AA509D30081651C /* A.swift in Sources */,
+				CE5841C51AA534B80081651C /* UsersListViewController.swift in Sources */,
 				CE5841631A9EABD70081651C /* FirstViewController.swift in Sources */,
+				CE5841911A9FDB130081651C /* StartupViewController.swift in Sources */,
+				CE5841951AA50E420081651C /* WelcomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -342,6 +506,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				INFOPLIST_FILE = ResumeApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -352,6 +520,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				INFOPLIST_FILE = ResumeApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
